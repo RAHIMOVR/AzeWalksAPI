@@ -1,0 +1,6 @@
+@AzeWalksAPI_HostAddress = http://localhost:5155
+
+GET {{AzeWalksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
