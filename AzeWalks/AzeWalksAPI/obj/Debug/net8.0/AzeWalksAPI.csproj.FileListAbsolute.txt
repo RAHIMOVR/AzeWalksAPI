@@ -166,3 +166,5 @@ C:\Users\rehim\OneDrive\Desktop\AzeWalks\AzeWalks\AzeWalksAPI\obj\Debug\net8.0\r
 C:\Users\rehim\OneDrive\Desktop\AzeWalks\AzeWalks\AzeWalksAPI\obj\Debug\net8.0\AzeWalksAPI.pdb
 C:\Users\rehim\OneDrive\Desktop\AzeWalks\AzeWalks\AzeWalksAPI\obj\Debug\net8.0\AzeWalksAPI.genruntimeconfig.cache
 C:\Users\rehim\OneDrive\Desktop\AzeWalks\AzeWalks\AzeWalksAPI\obj\Debug\net8.0\ref\AzeWalksAPI.dll
+C:\Users\rehim\OneDrive\Desktop\AzeWalks\AzeWalks\AzeWalksAPI\obj\Debug\net8.0\AzeWalksAPI.sourcelink.json
+C:\Users\rehim\OneDrive\Desktop\AzeWalks\AzeWalks\AzeWalksAPI\bin\Debug\net8.0\AutoMapper.dll

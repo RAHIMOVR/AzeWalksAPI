@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UDY8mms4yXJOwIbZTxjahxKtS4aiDfvshE6cYerzZGB+2iIWnfkFMSuh3JoKOifDP6531tU91HJie9i8KpqRpg==",
+  "dgSpecHash": "+McAjxU+3eKPA4y3apGCdkyZgHsjIg9D+LkxhXUIKiGyNhZH9MQmxP29+Wdcaru9nPgl1DBPEBgt9UD7zkPnyw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\AzeWalksAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rehim\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\rehim\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\rehim\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\rehim\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
