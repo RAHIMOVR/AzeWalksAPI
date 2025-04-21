@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzeWalksAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ac391df4fd733d0264123f5486ac210a4c79d1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cd5cdefa6afadc8c51b60d662633d1ae2065f95")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzeWalksAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzeWalksAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

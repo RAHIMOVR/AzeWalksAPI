@@ -77,5 +77,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AzeWalksAPI.Controllers.WalksController",
+    "Method": "GetAll",
+    "RelativePath": "api/Walks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AzeWalksAPI.Controllers.WalksController",
+    "Method": "Create",
+    "RelativePath": "api/Walks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "addwalkDto",
+        "Type": "AzeWalksAPI.Models.DTO.AddWalkDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

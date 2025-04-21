@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\data\\azewalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\data\\azewalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|c:\\users\\rehim\\onedrive\\desktop\\azewalks\\azewalks\\azewalksapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\models\\dto\\addwalkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\models\\dto\\addwalkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\models\\dto\\walkdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\models\\dto\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\models\\dto\\updateregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|c:\\users\\rehim\\onedrive\\desktop\\azewalks\\azewalks\\azewalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\azewalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FD741D-6E9A-4AFF-A8EB-7F0D9A0D278A}|AzeWalksAPI\\AzeWalksAPI.csproj|solutionrelative:azewalksapi\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,29 +70,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "DocumentIndex": 0,
+              "Title": "AzeWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Data\\AzeWalksDbContext.cs",
+              "RelativeDocumentMoniker": "AzeWalksAPI\\Data\\AzeWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Data\\AzeWalksDbContext.cs",
+              "RelativeToolTip": "AzeWalksAPI\\Data\\AzeWalksDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwBgAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T15:37:59.675Z",
+              "WhenOpened": "2025-04-21T21:58:07.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "AzeWalksAPI\\Controllers\\RegionsController.cs",
-              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "AzeWalksAPI\\Controllers\\RegionsController.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAowJQAAABAAAAA",
+              "DocumentIndex": 5,
+              "Title": "WalkDto.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\DTO\\WalkDto.cs",
+              "RelativeDocumentMoniker": "AzeWalksAPI\\Models\\DTO\\WalkDto.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\DTO\\WalkDto.cs",
+              "RelativeToolTip": "AzeWalksAPI\\Models\\DTO\\WalkDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T22:27:05.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T21:54:06.754Z"
             },
             {
               "$type": "Document",
@@ -98,62 +101,69 @@
               "RelativeDocumentMoniker": "AzeWalksAPI\\Program.cs",
               "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Program.cs",
               "RelativeToolTip": "AzeWalksAPI\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABMAAAA7AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T12:42:45.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T21:53:16.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SQLRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\SQLRegionRepository.cs",
-              "RelativeDocumentMoniker": "AzeWalksAPI\\Repositories\\SQLRegionRepository.cs",
-              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\SQLRegionRepository.cs",
-              "RelativeToolTip": "AzeWalksAPI\\Repositories\\SQLRegionRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAuwBsAAAAoAAAA",
+              "DocumentIndex": 1,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "AzeWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "AzeWalksAPI\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T13:55:34.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T21:49:38.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRegionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\IRegionRepository.cs",
-              "RelativeDocumentMoniker": "AzeWalksAPI\\Repositories\\IRegionRepository.cs",
-              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\IRegionRepository.cs",
-              "RelativeToolTip": "AzeWalksAPI\\Repositories\\IRegionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "DocumentIndex": 7,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "AzeWalksAPI\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "AzeWalksAPI\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T13:51:35.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateRegionDto.cs",
-              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\DTO\\UpdateRegionDto.cs",
-              "RelativeDocumentMoniker": "AzeWalksAPI\\Models\\DTO\\UpdateRegionDto.cs",
-              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\DTO\\UpdateRegionDto.cs",
-              "RelativeToolTip": "AzeWalksAPI\\Models\\DTO\\UpdateRegionDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:54:38.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T21:49:37.398Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\Domain\\Region.cs",
-              "RelativeDocumentMoniker": "AzeWalksAPI\\Models\\Domain\\Region.cs",
-              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\Domain\\Region.cs",
-              "RelativeToolTip": "AzeWalksAPI\\Models\\Domain\\Region.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Title": "AddWalkDto.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\DTO\\AddWalkDto.cs",
+              "RelativeDocumentMoniker": "AzeWalksAPI\\Models\\DTO\\AddWalkDto.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Models\\DTO\\AddWalkDto.cs",
+              "RelativeToolTip": "AzeWalksAPI\\Models\\DTO\\AddWalkDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:52:11.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T21:49:33.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "AzeWalksAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:49:27.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "AzeWalksAPI\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\AzeWalks\\AzeWalks\\AzeWalksAPI\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "AzeWalksAPI\\Controllers\\WalksController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:49:24.388Z"
             }
           ]
         }

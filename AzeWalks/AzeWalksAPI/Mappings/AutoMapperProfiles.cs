@@ -10,7 +10,9 @@ namespace AzeWalksAPI.Mappings
         {
             CreateMap<Region, RegionDto>().ReverseMap();
             CreateMap<AddRegionDto, Region>().ReverseMap();
-            CreateMap<UpdateRegionDto, Region>().ReverseMap();        
+            CreateMap<UpdateRegionDto, Region>().ReverseMap();
+            CreateMap<AddWalkDto, Walk>().ReverseMap();
+            CreateMap<Walk, WalkDto>().ReverseMap();
         }
     }
 }
